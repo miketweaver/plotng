@@ -1,4 +1,4 @@
-module github.com/miketweaver/plotng
+module plotng
 
 go 1.16
 
