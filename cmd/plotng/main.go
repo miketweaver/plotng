@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"plotng/internal"
+	"github.com/miketweaver/plotng/internal"
 )
 
 func main() {
