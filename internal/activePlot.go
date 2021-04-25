@@ -3,7 +3,7 @@ package internal
 import (
 	"bufio"
 	"fmt"
-	"github.com/ricochet2200/go-disk-usage/du"
+	"github.com/miketweaver/go-disk-usage/du"
 	"io"
 	"log"
 	"os/exec"
