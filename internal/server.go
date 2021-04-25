@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/gob"
 	"fmt"
-	"github.com/ricochet2200/go-disk-usage/du"
+	"github.com/miketweaver/go-disk-usage/du"
 	"log"
 	"net/http"
 	"sync"
