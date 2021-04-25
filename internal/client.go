@@ -4,7 +4,7 @@ import (
 	"encoding/gob"
 	"fmt"
 	"github.com/gdamore/tcell/v2"
-	"github.com/ricochet2200/go-disk-usage/du"
+	"github.com/miketweaver/go-disk-usage/du"
 	"github.com/rivo/tview"
 	"net/http"
 	"sort"
